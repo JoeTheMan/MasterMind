@@ -13,7 +13,7 @@ public class ComSolRunner {
 		Code secret = Code.randomCode(COLORS, SIZEOFGUESS);
 		boolean win = false;
 		
-		System.out.println("Solution: " +  secret.toString() + "\n");
+		//System.out.println("Solution: " +  secret.toString() + "\n");
 
 		Board game = new Board(secret, GUESSES);
 		

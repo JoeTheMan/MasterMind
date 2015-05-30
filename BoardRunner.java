@@ -12,7 +12,7 @@ public class BoardRunner {
 		boolean win = false;
 		boolean playAgain = true;
 		
-		System.out.println(secret.toString() + secret.getLength());
+		//System.out.println(secret.toString() + secret.getLength());
 		System.out.println("   _____                   __                       .__            .___");
 		System.out.println("  /     \\ _____    _______/  |_  ___________  _____ |__| ____    __| _/");
 		System.out.println(" /  \\ /  \\\\__  \\  /  ___/\\   __\\/ __ \\_  __ \\/     \\|  |/    \\  / __ | ");
